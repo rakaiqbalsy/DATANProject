@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "303206750705",
+    "firebase_url": "https://datanproject.firebaseio.com",
+    "project_id": "datanproject",
+    "storage_bucket": "datanproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303206750705:android:ef364535a1804b6a",
+        "android_client_info": {
+          "package_name": "com.raka.rplinformatika.datanproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303206750705-ie9unrjr1ribklrprpp65ruq42k1i2tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raka.rplinformatika.datanproject",
+            "certificate_hash": "ff5c02c69ab3810391558be472fd4d952a3ce8e0"
+          }
+        },
+        {
+          "client_id": "303206750705-0in050loubrp7gibbuj170boa2th368o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "303206750705-0in050loubrp7gibbuj170boa2th368o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlGpspzYbmY_mRLJ8cBMldx_r5x-gy5gY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303206750705-0in050loubrp7gibbuj170boa2th368o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
